@@ -4,12 +4,12 @@ You can use the [editor on GitHub](https://github.com/Coinemy/bitorzo_web/edit/g
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Bitorzo Bitcoin Wallet 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
+Store & use Bitcoin in a simple and secure way. Beginners and advanced users friendly! Bitorzo is secure-by design and implementation, allowing users to be in full control of their funds. Exchange Bitcoin with your contacts anywhere, anytime!
 
 # Header 1
 ## Header 2
